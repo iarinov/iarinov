@@ -39,7 +39,7 @@ I am a 42 Heilbronn (IT School) Student from Germany.
 
 - For me is important that code is not only good written and working but also a good design in frontend part.
 
--Languages: English, German, Russian, Hebrew
+- Languages: English, German, Russian, Hebrew
 
 
 ### :hammer_and_wrench: Languages and Tools :
