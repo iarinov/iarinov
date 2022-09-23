@@ -31,12 +31,15 @@ Here are some ideas to get you started:
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer from Germany.
-- I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a 42 Heilbronn (IT School) Student from Germany.
 
-- Exploring Technical Content Writing.
+- My goal is to become a Software Engineer and contributing to frontend and backend for building web applications.
 
-- In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- Before finding myself in Software Engineer, I was working as an Architect.
+
+- For me is important that code is not only good written and working but also a good design in frontend part.
+
+-Languages: English, German, Russian, Hebrew
 
 
 ### :hammer_and_wrench: Languages and Tools :
