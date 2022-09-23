@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I am a Full Stack Developer from Germany.
 - I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - Exploring Technical Content Writing.
